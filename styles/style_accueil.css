@@ -1,0 +1,14 @@
+.description {
+    float: right;
+    margin-top: 110px;
+    margin-right: 40px;
+}
+
+.photo1 {
+    float: left;
+    margin-left: 50px;
+}
+
+.photo_description {
+    margin-top: 30px;
+}
